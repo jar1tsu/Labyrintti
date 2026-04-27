@@ -98,16 +98,18 @@ Jatkokehitysideana voisi olla labyrintin ratkaisun animointi askel askeleelta se
 
 #### Lähteet 
 
-GeeksforGeeks 2025. Backtracking Algorithms. Luettavissa: https://www.geeksforgeeks.org/dsa/backtracking-algorithms/. Luettu: [lisää päivämäärä].
+GeeksforGeeks 2025. Backtracking Algorithms. Luettavissa: https://www.geeksforgeeks.org/dsa/backtracking-algorithms/. Luettu: 13.4.2026.
 
-GeeksforGeeks 2025. Tutorial on Path Problems in a Grid, Maze, or Matrix. Luettavissa: https://www.geeksforgeeks.org/dsa/tutorial-on-path-problems-in-a-grid-maze-or-matrix/. Luettu: [lisää päivämäärä].
+GeeksforGeeks 2025. Tutorial on Path Problems in a Grid, Maze, or Matrix. Luettavissa: https://www.geeksforgeeks.org/dsa/tutorial-on-path-problems-in-a-grid-maze-or-matrix/. Luettu: 13.4.2026.
 
-Maze Pathfinding Visualization 2020. YouTube. Katsottavissa: https://www.youtube.com/watch?v=GC-nBgi9r0U. Katsottu: [lisää päivämäärä]
+Maze Pathfinding Visualization 2020. YouTube. Katsottavissa: https://www.youtube.com/watch?v=GC-nBgi9r0U. Katsottu: 15.4.2026.
 
-Microsoft 2024. TypeScript Documentation. Luettavissa: https://www.typescriptlang.org/docs/. Luettu: [lisää päivämäärä].
+Microsoft 2024. TypeScript Documentation. Luettavissa: https://www.typescriptlang.org/docs/. Luettu: 11.4.2026.
 
-Mozilla 2024. Canvas API. MDN Web Docs. Luettavissa: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API. Luettu: [lisää päivämäärä].
+Mozilla 2024. Canvas API. MDN Web Docs. Luettavissa: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API. Luettu: 11.4.2026.
 
-Tosato, M. 2024. Exploring the Depths: Solving Mazes with A* Search Algorithm. Medium. Luettavissa: https://matteo-tosato7.medium.com/exploring-the-depths-solving-mazes-with-a-search-algorithm-c15253104899. Luettu: [lisää päivämäärä].
+Tekoäly. Käytin tekoälyä avaamaan vaikeita käsitteitä, kuten A* ja myös logiikkaa, että miksi tietty algoritimi tekee niinkuin tekee.
 
-Wikipedia 2026. Maze generation algorithm. Luettavissa: https://en.wikipedia.org/wiki/Maze_generation_algorithm. Luettu: [lisää päivämäärä].
+Tosato, M. 2024. Exploring the Depths: Solving Mazes with A* Search Algorithm. Medium. Luettavissa: https://matteo-tosato7.medium.com/exploring-the-depths-solving-mazes-with-a-search-algorithm-c15253104899. Luettu: 16.4.2026.
+
+Wikipedia 2026. Maze generation algorithm. Luettavissa: https://en.wikipedia.org/wiki/Maze_generation_algorithm. Luettu: 13.4.2026.
