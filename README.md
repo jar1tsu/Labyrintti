@@ -96,11 +96,16 @@ Generaattorin valinnalla on suuri vaikutus ratkaisualgoritmien suorituskykyeroih
 
 Jatkokehitysideana voisi olla labyrintin ratkaisun animointi askel askeleelta selaimessa sekä muiden generointialgoritmien kuten Kruskalin algoritmin lisääminen.
 
+Video linkki: https://api.kaltura.nordu.net/p/288/sp/28800/embedIframeJs/uiconf_id/23453383/partner_id/288?iframeembed=true&playerId=kaltura_player&entry_id=0_w41ttugz
+
+
 #### Lähteet 
 
 GeeksforGeeks 2025. Backtracking Algorithms. Luettavissa: https://www.geeksforgeeks.org/dsa/backtracking-algorithms/. Luettu: 13.4.2026.
 
 GeeksforGeeks 2025. Tutorial on Path Problems in a Grid, Maze, or Matrix. Luettavissa: https://www.geeksforgeeks.org/dsa/tutorial-on-path-problems-in-a-grid-maze-or-matrix/. Luettu: 13.4.2026.
+
+Kumar, Akarsh. s.a. Maze Generation and Solving Algorithms. PDF. Luettavissa: https://akarshkumar.com/downloads/cp3/maze.pdf. Luettu: 13.4.2026.
 
 Maze Pathfinding Visualization 2020. YouTube. Katsottavissa: https://www.youtube.com/watch?v=GC-nBgi9r0U. Katsottu: 15.4.2026.
 
